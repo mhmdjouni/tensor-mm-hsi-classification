@@ -1,7 +1,7 @@
 # tensor-mm-hsi-classification
 Hyperspectral Image Classification Based on Mathematical Morphology and Tensor Decomposition
 
-# Information
+# Description
 To-be-added soon...
 
 # Citation:
