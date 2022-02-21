@@ -8,7 +8,7 @@ To-be-added soon...
 
 
 # Citation:
-
+```
 @article{jouni2020hyperspectral,  
 &nbsp;&nbsp;title={Hyperspectral image classification based on mathematical morphology and tensor decomposition},  
 &nbsp;&nbsp;author={Jouni, Mohamad and Dalla Mura, Mauro and Comon, Pierre},  
@@ -19,3 +19,4 @@ To-be-added soon...
 &nbsp;&nbsp;year={2020},  
 &nbsp;&nbsp;publisher={De Gruyter Open}  
 }
+```
