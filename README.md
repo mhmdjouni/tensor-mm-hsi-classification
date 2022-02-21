@@ -10,13 +10,13 @@ To-be-added soon...
 # Citation:
 ```
 @article{jouni2020hyperspectral,  
-&nbsp;&nbsp;title={Hyperspectral image classification based on mathematical morphology and tensor decomposition},  
-&nbsp;&nbsp;author={Jouni, Mohamad and Dalla Mura, Mauro and Comon, Pierre},  
-&nbsp;&nbsp;journal={Mathematical Morphology-Theory and Applications},  
-&nbsp;&nbsp;volume={4},  
-&nbsp;&nbsp;number={1},  
-&nbsp;&nbsp;pages={1--30},  
-&nbsp;&nbsp;year={2020},  
-&nbsp;&nbsp;publisher={De Gruyter Open}  
+  title={Hyperspectral image classification based on mathematical morphology and tensor decomposition},  
+  author={Jouni, Mohamad and Dalla Mura, Mauro and Comon, Pierre},  
+  journal={Mathematical Morphology-Theory and Applications},  
+  volume={4},  
+  number={1},  
+  pages={1--30},  
+  year={2020},  
+  publisher={De Gruyter Open}  
 }
 ```
