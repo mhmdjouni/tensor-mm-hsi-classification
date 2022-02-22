@@ -1,6 +1,6 @@
 # tensor-mm-hsi-classification
 
-Hyperspectral Image Classification Based on Mathematical Morphology and Tensor Decomposition
+Jouni, Mohamad, Mauro Dalla Mura, and Pierre Comon. "Hyperspectral image classification based on mathematical morphology and tensor decomposition." _Mathematical Morphology-Theory and Applications_ 4.1 (2020): 1-30.
 
 # Description
 
